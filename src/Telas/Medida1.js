@@ -125,7 +125,7 @@ const Medida1 = () => {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#12131B',
+        backgroundColor: 'red',
     },
     content: {
         alignItems: 'center',
